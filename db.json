@@ -1,0 +1,248 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "category": "Hello World"
+    }
+  ],
+  "sizingProducts": [
+    {
+      "id": 1,
+      "productName": "Jacket",
+      "imgSrc": "http://localhost:8080/assets/images/jacket.png"
+    },
+    {
+      "id": 2,
+      "productName": "Shirt",
+      "imgSrc": "http://localhost:8080/assets/images/shirt.png"
+    },
+    {
+      "id": 3,
+      "productName": "Gloves",
+      "imgSrc": "http://localhost:8080/assets/images/gloves.png"
+    },
+    {
+      "id": 4,
+      "productName": "Bag",
+      "imgSrc": "http://localhost:8080/assets/images/bag.png"
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "productName": "Jacket",
+      "sizes": [
+        {
+          "id": 1,
+          "SizeUK": "Length",
+          "S": 24,
+          "M": 24,
+          "ML": 24,
+          "L": 24,
+          "XL": 24,
+          "XXL": 24,
+          "3XL": 24,
+          "4XL": 24,
+          "Actions": "---"
+        },
+        {
+          "id": 2,
+          "SizeUK": "Chest",
+          "S": 23,
+          "M": 23,
+          "ML": 23,
+          "L": 23,
+          "XL": 23,
+          "XXL": 23,
+          "3XL": 23,
+          "4XL": 23,
+          "Actions": "---"
+        },
+        {
+          "id": 3,
+          "SizeUK": "Waist",
+          "S": 22,
+          "M": 22,
+          "ML": 22,
+          "L": 22,
+          "XL": 22,
+          "XXL": 22,
+          "3XL": 22,
+          "4XL": 22,
+          "Actions": "---"
+        },
+        {
+          "id": 4,
+          "SizeUK": "Hip",
+          "S": 21,
+          "M": 21,
+          "ML": 21,
+          "L": 21,
+          "XL": 21,
+          "XXL": 21,
+          "3XL": 21,
+          "4XL": 21,
+          "Actions": "---"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "productName": "Shirt",
+      "sizes": [
+        {
+          "id": 1,
+          "SizeUK": "Length",
+          "S": 24,
+          "M": 24,
+          "ML": 24,
+          "L": 24,
+          "XL": 24,
+          "XXL": 24,
+          "3XL": 24,
+          "4XL": 24,
+          "Actions": "---"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "productName": "Gloves",
+      "sizes": [{}]
+    },
+    {
+      "id": 4,
+      "productName": "Bag",
+      "sizes": [{}]
+    }
+  ],
+  "grid": [
+    {
+      "id": 1,
+      "title": "newsletter",
+      "newsLetterList": [
+        {
+          "id": 1,
+          "title": "Thanks for Shopping",
+          "description": "IpSum Lorem",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        },
+        {
+          "id": 2,
+          "title": "Thanks for Shopping",
+          "description": "IpSum Lorem",
+          "date": "08.04.2020",
+          "status": "Draft",
+          "action": "---"
+        },
+        {
+          "id": 3,
+          "title": "Your Product has been customized",
+          "description": "IpSum Lorem",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        },
+        {
+          "id": 4,
+          "title": "Footer",
+          "description": "IpSum Lorem",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        }
+      ]
+    }
+  ],
+  "staticContents": [
+    {
+      "id": 1,
+      "title": "Factory Tour",
+      "shortCode": "factoryTour",
+      "contentList": [
+        {
+          "id": 1,
+          "title": "Colour Matching",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Draft",
+          "action": "---"
+        },
+        {
+          "id": 2,
+          "title": "Bundling",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Draft",
+          "action": "---"
+        },
+        {
+          "id": 3,
+          "title": "Assembly",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Draft",
+          "action": "---"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "About Us",
+      "shortCode": "aboutUs",
+      "contentList": [
+        {
+          "id": 1,
+          "title": "About Latido",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        },
+        {
+          "id": 2,
+          "title": "Leather Profile",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "How To",
+      "shortCode": "howTo",
+      "contentList": [
+        {
+          "id": 1,
+          "title": "Customize the Product",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        },
+        {
+          "id": 2,
+          "title": "Take care of Jackets",
+          "description": "This is a dummy text for description",
+          "date": "08.04.2020",
+          "status": "Published",
+          "action": "---"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Yohohoho",
+      "description": "This is a dummy text for description",
+      "date": "08.04.2020",
+      "status": "Draft",
+      "action": "---"
+    }
+  ]
+}
